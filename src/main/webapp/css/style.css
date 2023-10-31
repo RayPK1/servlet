@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: #F7553B!important; 
+    color: black!important; 
+}
+
+.col-1 a{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+.face {
+    background-color: white;
+}
+.link {
+    color: rgb(67, 67, 235);
+    background-color: grey;
+}
+.git{
+    color: white;
+    background-color: black;
+}
+.twi{
+    color:#32A0F0;
+    background-color: white;
+}
+.face:hover{
+    margin-top: -10px;
+}
+.link:hover{
+    margin-top: -10px;
+}
+.git:hover{
+    margin-top: -10px;
+}
+.twi:hover{
+    margin-top: -10px;
+}
